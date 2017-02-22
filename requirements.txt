@@ -21,13 +21,19 @@ docutils==0.13.1
 easy-thumbnails==2.3
 future==0.16.0
 html5lib==0.9999999
+<<<<<<< HEAD
 httplib2==0.10.3
+=======
+>>>>>>> c518104713d89ae3b8227f54cd2ef68476b73984
 icalendar==3.11.2
 imagesize==0.7.1
 invoke==0.14.0
 Jinja2==2.9.5
 MarkupSafe==0.23
+<<<<<<< HEAD
 oauth2==1.9.0.post1
+=======
+>>>>>>> c518104713d89ae3b8227f54cd2ef68476b73984
 oauthlib==2.0.1
 olefile==0.44
 packaging==16.8
@@ -42,7 +48,10 @@ python-mimeparse==1.6.0
 python-social-auth==0.3.6
 python3-openid==3.0.10
 pytz==2016.10
+<<<<<<< HEAD
 PyYAML==3.12
+=======
+>>>>>>> c518104713d89ae3b8227f54cd2ef68476b73984
 rcssmin==1.0.6
 reportlab==3.3.0
 requests==2.13.0

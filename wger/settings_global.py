@@ -144,6 +144,9 @@ AUTHENTICATION_BACKENDS = (
     'social_core.backends.twitter.TwitterOAuth',
     'social_core.backends.google.GoogleOAuth2',
     'social_core.backends.email.EmailAuth',
+    'social.backends.facebook.FacebookOAuth2',
+    'social.backends.google.GoogleOAuth2',
+    'social.backends.twitter.TwitterOAuth',
     'django.contrib.auth.backends.ModelBackend',
     'wger.utils.helpers.EmailAuthBackend'
 )
